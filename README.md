@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">👋 Hi, I’m Mahmood Alfoqahaa</h1>
+<h1 align="center">👋 Hi, I’m Mahmood Alfoqahaa</h1>
 
 
 - 🔭 I’m currently working on creating new projects.
