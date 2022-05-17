@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Mahmood Alfoqahaa
+<h1 style="text-align:center;">👋 Hi, I’m Mahmood Alfoqahaa</h1>
+
+
 - 🔭 I’m currently working on creating new projects.
 - 👀 I’m interested in web development and all technologies related to.
 - 🌱 I’m currently learning Vue js.
