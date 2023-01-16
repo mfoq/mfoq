@@ -34,6 +34,9 @@
     <img align="center" src="https://github.com/mfoq/mfoq/blob/main/iocns/javascript.svg" alt="MahmoodAlfoqahaa" height="30" width="30"  style="max-width: 100%;">
   </a>
   <a href="#" rel="nofollow">
+    <img align="center" src="https://github.com/mfoq/mfoq/blob/main/iocns/vue-js.png" alt="MahmoodAlfoqahaa" height="30" width="30"  style="max-width: 100%;">
+  </a>
+  <a href="#" rel="nofollow">
     <img align="center" src="https://github.com/mfoq/mfoq/blob/main/iocns/php.svg" alt="MahmoodAlfoqahaa" height="30" width="30"  style="max-width: 100%;">
   </a>
   <a href="#" rel="nofollow">
